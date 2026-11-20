@@ -1,0 +1,7 @@
+title: Update
+tooltip: >
+  Download the latest pyVCI tools from the shared pyVCI GitHub repository
+  and reload pyRevit automatically. Click this any time after being told
+  pyVCI has new tools or fixes - no manual file copying needed, and no
+  GitHub login required.
+author: VCI / NBT
